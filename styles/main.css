@@ -1,15 +1,15 @@
 .stopwatch {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 500px;
   height: 500px;
-  background-color: #ecfbff;
   margin: 0 auto;
   border: 10px solid lightskyblue;
   border-radius: 50%;
-  display: flex;
-  justify-content: center;
-  align-items: center; }
+  background-color: #ecfbff; }
 
-.center-circle {
+.circle {
   width: 33.33333px;
   height: 33.33333px;
   background-color: lightskyblue;
